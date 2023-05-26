@@ -50,3 +50,4 @@ urlpatterns = [
         name='music_list'
         ),
 ]
+apple
