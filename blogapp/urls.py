@@ -53,5 +53,3 @@ urlpatterns = [
 apple
 orange
 grape
-peach
-
